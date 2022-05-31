@@ -625,6 +625,10 @@ margin-top: 160px;
   margin-top: 10px;
 }
 
+.success-wrapper{
+  max-height:100vh;
+}
+
 @media screen and (max-width:800px) {
   .hero-banner-container{
     height: 560px;
@@ -752,6 +756,8 @@ margin-top: 160px;
  
   min-height: 69vh;
 }
+
+
 .success, .cancel {
    width: 370px;
   margin-top: 100px;
@@ -767,4 +773,5 @@ margin-top: 160px;
   width: 300px;
   margin: auto;
 }
+
 }
